@@ -1,0 +1,4 @@
+[submodule "blogger"]
+	path = blogger
+	url = https://github.com/ardiansyah00/blogger.git
+	branch = master
